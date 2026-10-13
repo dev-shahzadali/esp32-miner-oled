@@ -1,0 +1,10 @@
+{
+  "host": "public-pool.io",
+  "port": 21496,
+  "time_utc": "2026-10-13T10:35:36Z",
+  "authorized": false,
+  "submitted": false,
+  "subscribe_ok": true,
+  "extranonce1_bytes": 4,
+  "extranonce2_bytes": 8
+}
